@@ -4,7 +4,7 @@ export default sidebar({
   "/": [
     "",
     {
-      text: "文章",
+      text: "题解",
       icon: "lightbulb",
       prefix: "posts/",
       children: "structure",
