@@ -1,11 +1,10 @@
 ---
-title: 2023 ICPC
+title: 题解
 index: false
 article: false
-icon: book
+icon: lightbulb
 category:
-  # - ICPC
-  # - 2023
+
 ---
 
 <AutoCatalog />
